@@ -17,4 +17,4 @@ CREATE TABLE netflix
 	description VARCHAR(550)
 );
 
-SELECT * FROM netflix;
+SELECT * FROM netflix;:
